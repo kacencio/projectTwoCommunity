@@ -1,0 +1,27 @@
+#entireSong {
+    display: flex;
+}
+
+#imagine { 
+    font-size: 100px;
+    text-align: center;
+    width: 30vh;
+    padding: 2vh 10vh;
+    font-weight:900;
+    
+}
+
+
+
+#lyricsAfter {
+    display: flex;
+    flex-direction: column;
+}
+
+.lyricsAfter {
+    padding: 10px;
+}
+#one {
+    font-size: 60px;
+    font-weight: 900;
+}
