@@ -5,10 +5,14 @@ body, html {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #000000;
     color: white;
-    font-family: Arial, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     overflow: hidden;
+}
+
+
+body {
+    background-image: radial-gradient(circle, #ff0000, #da2009, #b72a10, #942d15, #732c19, #60271b, #4c221c, #381e1b, #2c1818, #201314, #140b0c, #000000);
 }
 
 a, a:hover, a:visited, a:active {
@@ -128,17 +132,17 @@ a, a:hover, a:visited, a:active {
 }
 
 .heavenline {
-animation: heavenline 6s;
+animation: heavenline 2s;
 }
 
 .hellline {
-    animation: hellline 5s;
+    animation: hellline 4s;
 }
 
 .sky {
     font-size: 600px;
     animation: sky 10s;
-    background: linear-gradient(to bottom, #61d7ff, #ffffff); 
+    background: linear-gradient(to bottom, #006385, #ffffff); 
     -webkit-background-clip: text; 
     background-clip: text; 
     color: transparent;
@@ -397,31 +401,32 @@ div {
 
 .lines13-16 span {
     font-size: 3rem;
-    transition: transform 5s ease, opacity 0.5s ease, font-size 3s ease;
+    transition: transform 5s ease, opacity 5s ease, font-size 3s ease;
 }
 
 .lines13-16:hover span:first-child {
     transform: translateY(30px); 
     font-size: 0.5rem;
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .lines13-16:hover span:nth-child(2) {
     transform: translateY(15px); 
     font-size: 1rem;
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .lines13-16:hover span:nth-child(3) {
     transform: translateY(0px); 
     font-size: 1.5rem;
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .lines13-16:hover span:nth-child(4) {
     transform: translateY(-15px); 
     font-size: 2.5rem;
-    opacity: 0.5;
+    opacity: 0;
+
 }
 
 .lines13-16:hover span:nth-child(5) {
