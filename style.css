@@ -35,9 +35,10 @@ a, a:hover, a:visited, a:active {
 }
 
 .stacked-imagine:hover span:first-child {
-    animation: rainbow 3s linear infinite; 
+    animation: rainbow 1s linear infinite; 
     transform: translateY(-40px);
     font-size: 6rem;
+    font-style: italic;
 }
 
 .stacked-imagine:hover span:nth-child(2) {
@@ -92,9 +93,10 @@ a, a:hover, a:visited, a:active {
 }
 
 .lines1-4:hover span:nth-child(2) {
-    animation: rainbow 3s linear infinite; 
+    animation: rainbow 1s linear infinite; 
     transform: translateY(-40px);
     font-size: 4rem;
+    font-style: italic;
 }
 
 .lines1-4:hover span:nth-child(3) {
@@ -130,7 +132,7 @@ animation: heavenline 6s;
 }
 
 .hellline {
-    animation: hellline 6s;
+    animation: hellline 5s;
 }
 
 .sky {
@@ -232,9 +234,10 @@ div {
 }
 
 .lines5-6:hover span:first-child {
-    animation: rainbow 3s linear infinite; 
+    animation: rainbow 1s linear infinite; 
     transform: translateY(-40px);
     font-size: 6rem;
+    font-style: italic;
 }
 
 .lines5-6:hover span:nth-child(2) {
@@ -290,9 +293,10 @@ div {
 }
 
 .lines7-10:hover span:first-child {
-    animation: rainbow 3s linear infinite; 
+    animation: rainbow 1s linear infinite; 
     transform: translateY(-40px);
     font-size: 6rem;
+    font-style: italic;
 }
 
 .lines7-10:hover span:nth-child(2) {
@@ -345,9 +349,10 @@ div {
 }
 
 .lines11-12:hover span:first-child {
-    animation: rainbow 3s linear infinite; 
+    animation: rainbow 1s linear infinite; 
     transform: translateY(-40px);
     font-size: 6rem;
+    font-style: italic;
 }
 
 .lines11-12:hover span:nth-child(2) {
@@ -387,7 +392,7 @@ div {
 }
 
 .lines13-16:hover {
-    transform: translateY(40px); 
+    transform: translateY(-20px); 
 }
 
 .lines13-16 span {
@@ -396,23 +401,32 @@ div {
 }
 
 .lines13-16:hover span:first-child {
-    animation: rainbow 3s linear infinite; 
-    transform: translateY(-40px);
-    font-size: 6rem;
+    transform: translateY(30px); 
+    font-size: 0.5rem;
+    opacity: 0.5;
 }
 
 .lines13-16:hover span:nth-child(2) {
-    transform: translateY(-15px); 
+    transform: translateY(15px); 
+    font-size: 1rem;
+    opacity: 0.5;
 }
 
 .lines13-16:hover span:nth-child(3) {
     transform: translateY(0px); 
+    font-size: 1.5rem;
+    opacity: 0.5;
 }
 
 .lines13-16:hover span:nth-child(4) {
-    transform: translateY(15px); 
+    transform: translateY(-15px); 
+    font-size: 2.5rem;
+    opacity: 0.5;
 }
 
 .lines13-16:hover span:nth-child(5) {
-    transform: translateY(15px); 
+    animation: rainbow 1s linear infinite; 
+    transform: translateY(-40px);
+    font-size: 24rem;
+    font-style: italic;
 }
