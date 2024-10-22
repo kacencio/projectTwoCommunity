@@ -15,6 +15,13 @@ body {
     background-image: radial-gradient(circle, #ff0000, #da2009, #b72a10, #942d15, #732c19, #60271b, #4c221c, #381e1b, #2c1818, #201314, #140b0c, #000000);
 }
 
+p {
+position: absolute;
+align-self: baseline;
+padding: 10px;
+}
+
+
 a, a:hover, a:visited, a:active {
     color: inherit;
     text-decoration: none;
@@ -316,7 +323,7 @@ div {
 }
 
 .lines7-10 span:first-child:hover {
-    animation: rainbow 1s linear infinite; /* Apply rainbow only to the first child */
+    animation: rainbow 1s linear infinite; 
     transform: translateY(-50px);
     font-style: italic;
 }
