@@ -16,7 +16,7 @@ Trebuchet MS
 
 ### Colors Used:
 #### Standard Palette Colors:
-Reds used in the background gradient:
+##### Reds used in the background gradient:
 <ul>
 <li>#FF0000 - Red</li>
 <li>#DA2009 - Crimson</li>
@@ -30,7 +30,8 @@ Reds used in the background gradient:
 <li>#201314 - Very Dark Maroon</li>
 <li>#140B0C - Almost Black</li>
 
-Other:
+##### Other:
+
 <li>#FF6363 - Pink (Hell)</li>
 <li>#FFD138 - Yellow (Heaven)</li>
 <li>#006385 - Cyan (Sky)</li>
