@@ -67,16 +67,6 @@ Other:
     - 0%: `transform: translateX(-40px); opacity: 0;`
     - 100%: `transform: translateX(0); opacity: 1;`
 
-- **Heaven Animation**:
-  - **Description**: Creates a glowing effect on text that simulates heaven.
-  - **Keyframes**: 
-    - 0%: Text shadow effects applied.
-
-- **Hell Animation**:
-  - **Description**: Similar glowing effect but with red tones to simulate hell.
-  - **Keyframes**: 
-    - 0%: Text shadow effects applied.
-
 - **Heavenline Animation**:
   - **Description**: Fades in elements with a slight opacity change.
   - **Keyframes**:
