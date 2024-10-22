@@ -1,8 +1,8 @@
 
 
 # DES228 Project 2
-##### October 23, 2024 ######
 ### by Kacey Vicencio ###
+#### October 23, 2024 #####
 ### Website found at: [kacencio.github.io/projectTwoCommunity](https://kacencio.github.io/projectTwoCommunity/) ###
 
 ## Project Overview 
@@ -16,7 +16,6 @@ Trebuchet MS
 
 ### Colors Used:
 #### Standard Palette Colors:
-<ul>
 Reds used in the background gradient:
 <ul>
 <li>#FF0000 - Red</li>
@@ -31,6 +30,7 @@ Reds used in the background gradient:
 <li>#201314 - Very Dark Maroon</li>
 <li>#140B0C - Almost Black</li>
 
+Other:
 <li>#FF6363 - Pink (Hell)</li>
 <li>#FFD138 - Yellow (Heaven)</li>
 <li>#006385 - Cyan (Sky)</li>
