@@ -90,7 +90,7 @@ Trebuchet MS
 [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Acknowledgment
-###### Sites Referenced for Inspiration: ######
+#### Sites Referenced for Inspiration: ####
 <ul>
     <li>[Cayleigh IP's Project](https://cayleighip.github.io/projectTwoWordsInMotion/)</li>
     <li>[Ling CRI's Project](https://ling-cri.github.io/ProjectTwoWordsInMotion/)</li>
