@@ -7,7 +7,7 @@
 
 ## Project Overview 
 The point of community is to come together as one and to put one's differences aside in order to become stronger. *Imagine* by John Lennon illustrates this concept, urging us to imagine a reality where there are no labels that create division, allowing us to unite with each other, with only our humanity defining us. With these deep meanings of community from the song, as well as myself growing
-up hearing it, I decided to choose an excerpt of its lyrics to show what community means to me: to become a society that works together, ignoring the qualities or groups we are in that divide us.
+up hearing it, I decided to choose an excerpt of its lyrics in a multi-page website with accompanied keyframe and hover animations to show what community means to me: to become a society that works together, ignoring the qualities or groups we are in that divide us.
 
 ## Technical Overview 
 
