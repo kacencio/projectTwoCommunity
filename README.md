@@ -1,6 +1,6 @@
 # DES228 Project 2
-##### October 16, 2024 ######
-### by Kayla Devila ###
+##### October 23, 2024 ######
+### by Kacey Vicencio ###
 ### Website found at: https://kdevila.github.io/projectTwo/ ###
 
 # Project Overview
