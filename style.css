@@ -223,37 +223,43 @@ div {
     display: flex;
     flex-direction: column;
     gap: 10px; 
+    padding: 10px;
     text-align: center;
     transition: transform 0.5s ease, gap 0.5s ease;
     cursor: pointer;
 }
 
 .lines5-6:hover {
-    transform: translateY(40px); 
+    transform: translateY(10px); 
 }
 
 .lines5-6 span {
     font-size: 3rem;
-    transition: transform 5s ease, opacity 0.5s ease, font-size 3s ease;
+    opacity: 0.8; 
+    transition: transform 0.3s ease, opacity 0.5s ease; 
 }
 
 .lines5-6:hover span:first-child {
     animation: rainbow 1s linear infinite; 
-    transform: translateY(-40px);
+    transform: rotate(-10deg) translateY(-30px); 
+    opacity: 1; 
     font-size: 6rem;
     font-style: italic;
 }
 
 .lines5-6:hover span:nth-child(2) {
-    transform: translateY(-15px); 
+    transform: rotate(10deg) translateY(-10px); 
+    opacity: 1; 
 }
 
 .lines5-6:hover span:nth-child(3) {
-    transform: translateY(0px);
+    transform: translateY(5px) scale(1.05); 
+    opacity: 0.9;
 }
 
 .lines5-6:hover span:nth-child(4) {
-    transform: translateY(15px); 
+    transform: rotate(-5deg) translateY(10px); 
+    opacity: 1; 
 }
 
 @keyframes rainbow {
@@ -265,8 +271,6 @@ div {
     83.3% { color: rgb(166, 42, 255); }
     100% { color: rgb(255, 82, 82); }
 }
-
-
 
 
 
@@ -333,7 +337,6 @@ div {
 
 
 /*LINES 11-12*/
-
 .lines11-12 {
     display: flex;
     flex-direction: column;
@@ -344,31 +347,31 @@ div {
 }
 
 .lines11-12:hover {
-    transform: translateY(40px); 
+    transform: translateY(10px); 
 }
 
 .lines11-12 span {
     font-size: 3rem;
-    transition: transform 5s ease, opacity 0.5s ease, font-size 3s ease;
+    opacity: 0.8; 
+    transition: transform 0.3s ease, opacity 0.5s ease; 
 }
 
 .lines11-12:hover span:first-child {
     animation: rainbow 1s linear infinite; 
-    transform: translateY(-40px);
+    transform: rotate(5deg) translateY(-30px); 
+    opacity: 1; 
     font-size: 6rem;
     font-style: italic;
 }
 
 .lines11-12:hover span:nth-child(2) {
-    transform: translateY(-15px); 
+    transform: rotate(-10deg) translateY(-10px); 
+    opacity: 1; 
 }
 
 .lines11-12:hover span:nth-child(3) {
-    transform: translateY(0px);
-}
-
-.lines11-12:hover span:nth-child(4) {
-    transform: translateY(15px); 
+    transform: translateY(3px) scale(0.5); 
+    opacity: 1;
 }
 
 @keyframes rainbow {
@@ -407,25 +410,25 @@ div {
 .lines13-16:hover span:first-child {
     transform: translateY(30px); 
     font-size: 0.5rem;
-    opacity: 0;
+    opacity: 0.2;
 }
 
 .lines13-16:hover span:nth-child(2) {
     transform: translateY(15px); 
     font-size: 1rem;
-    opacity: 0;
+    opacity: 0.3;
 }
 
 .lines13-16:hover span:nth-child(3) {
     transform: translateY(0px); 
     font-size: 1.5rem;
-    opacity: 0;
+    opacity: 0.4;
 }
 
 .lines13-16:hover span:nth-child(4) {
     transform: translateY(-15px); 
     font-size: 2.5rem;
-    opacity: 0;
+    opacity: 0.5;
 
 }
 
