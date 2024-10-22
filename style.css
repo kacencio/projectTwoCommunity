@@ -39,11 +39,15 @@ a, a:hover, a:visited, a:active {
 }
 
 .stacked-imagine:hover span:first-child {
-    animation: rainbow 1s linear infinite; 
     transform: translateY(-40px);
     font-size: 6rem;
+}
+
+.stacked-imagine:hover span:first-child:hover {
+    animation: rainbow 1s linear infinite; 
     font-style: italic;
 }
+
 
 .stacked-imagine:hover span:nth-child(2) {
     transform: translateY(-15px); 
@@ -98,9 +102,12 @@ a, a:hover, a:visited, a:active {
 }
 
 .lines1-4:hover span:nth-child(2) {
-    animation: rainbow 1s linear infinite; 
     transform: translateY(-40px);
     font-size: 4rem;
+}
+
+.lines1-4:hover span:nth-child(2):hover {
+    animation: rainbow 1s linear infinite; 
     font-style: italic;
 }
 
@@ -243,12 +250,16 @@ div {
 }
 
 .lines5-6:hover span:first-child {
-    animation: rainbow 1s linear infinite; 
     transform: rotate(-10deg) translateY(-30px); 
     opacity: 1; 
     font-size: 6rem;
+}
+
+.lines5-6:hover span:first-child:hover {
+    animation: rainbow 1s linear infinite; 
     font-style: italic;
 }
+
 
 .lines5-6:hover span:nth-child(2) {
     transform: rotate(10deg) translateY(-10px); 
@@ -307,7 +318,8 @@ div {
 .lines7-10 span:first-child:hover {
     animation: rainbow 1s linear infinite; /* Apply rainbow only to the first child */
     transform: translateY(-50px);
-    transform: scale(1.2); 
+    transform: scale(1.2);
+    font-style: italic;
 }
 
 .lines7-10:hover span:nth-child(2) {
@@ -372,16 +384,19 @@ div {
 
 .lines11-12 span {
     font-size: 3rem;
-    opacity: 0.8; 
     transition: transform 0.3s ease, opacity 0.5s ease; 
 }
 
-.lines11-12:hover span:first-child {
+.lines11-12:hover span:first-child:hover {
     animation: rainbow 1s linear infinite; 
+    font-style: italic;
+}
+
+
+.lines11-12:hover span:first-child {
     transform: rotate(5deg) translateY(-30px); 
     opacity: 1; 
     font-size: 6rem;
-    font-style: italic;
 }
 
 .lines11-12:hover span:nth-child(2) {
@@ -427,6 +442,7 @@ div {
     transition: transform 5s ease, opacity 5s ease, font-size 3s ease;
 }
 
+
 .lines13-16:hover span:first-child {
     transform: translateY(30px); 
     font-size: 0.5rem;
@@ -452,9 +468,13 @@ div {
 
 }
 
-.lines13-16:hover span:nth-child(5) {
+.lines13-16:hover span:nth-child(5):hover {
     animation: rainbow 1s linear infinite; 
+    font-style: italic;
+}
+
+.lines13-16:hover span:nth-child(5) {
     transform: translateY(-40px);
     font-size: 24rem;
-    font-style: italic;
+
 }
