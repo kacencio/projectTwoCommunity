@@ -68,13 +68,13 @@ Trebuchet MS
     - 0%: `transform: translateX(-40px); opacity: 0;`
     - 100%: `transform: translateX(0); opacity: 1;`
 
-- **Heavenline Animation**:
+- **Heaven ("heavenline") Animation**:
   - **Description**: Fades in elements with a slight opacity change.
   - **Keyframes**:
     - 0%: `opacity: 0;`
     - 100%: `opacity: 1;`
 
-- **Hellline Animation**:
+- **Hell ("hellline") Animation**:
   - **Description**: Fades in elements over time.
   - **Keyframes**:
     - 0%: `opacity: 0;`
