@@ -1,7 +1,7 @@
 # DES228 Project 2
 ##### October 23, 2024 ######
 ### by Kacey Vicencio ###
-### Website found at: https://kdevila.github.io/projectTwo/ ###
+### Website found at: https://kacencio.github.io/projectTwoCommunity/ ###
 
 # Project Overview
 The point of community is to come together as one and to put one's differences aside
