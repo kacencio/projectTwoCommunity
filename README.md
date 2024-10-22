@@ -103,7 +103,6 @@ Trebuchet MS
 
 #### Rainbow Animation Reference: ####
 <ul>
-    <li>[MyColor.Space](https://mycolor.space/gradient)</li>
     <li>https://stackoverflow.com/questions/54702124/rainbow-text-animation-using-only-css</li>
 </ul>
 
