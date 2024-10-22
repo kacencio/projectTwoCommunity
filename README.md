@@ -60,7 +60,6 @@ Trebuchet MS
     -     66.6%  color: rgb(88, 88, 255); 
     -     83.3%  color: rgb(166, 42, 255);
     -     100%  color: rgb(255, 82, 82); 
-}
 
 - **Slide In From Left**:
   - **Description**: Elements slide in from the left with an opacity effect.
@@ -101,3 +100,10 @@ Trebuchet MS
 <ul>
     <li>[MyColor.Space](https://mycolor.space/gradient)</li>
 </ul>
+
+#### Rainbow Animation Reference: ####
+<ul>
+    <li>[MyColor.Space](https://mycolor.space/gradient)</li>
+    <li>https://stackoverflow.com/questions/54702124/rainbow-text-animation-using-only-css</li>
+</ul>
+
