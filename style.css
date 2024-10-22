@@ -307,7 +307,7 @@ div {
 }
 
 .lines7-10:hover {
-    transform: translateY(-110px); 
+    transform: translateY(-100px); 
 }
 
 .lines7-10 span {
@@ -318,8 +318,11 @@ div {
 .lines7-10 span:first-child:hover {
     animation: rainbow 1s linear infinite; /* Apply rainbow only to the first child */
     transform: translateY(-50px);
-    transform: scale(1.2);
     font-style: italic;
+}
+
+.lines7-10:hover span:nth-child(1) {
+    transform: scale(1.5); 
 }
 
 .lines7-10:hover span:nth-child(2) {
