@@ -52,12 +52,7 @@ Trebuchet MS
 ### Hover Effects Used: 
 
 - **Scale**: 
-    -     "Transform: scale" had elements increase or decrease in size when hovered upon. 
-    
-First span in .lines7-10 scales to 1.5.
-First span in .lines1-4 scales to 0.7.
-Second, third, and fourth spans in .lines7-10 scale to 0.9.
-Third span in .lines11-12 scales to 0.5.
+    -     "Transform: scale" had elements increase or decrease in size when hovered upon. First span in .lines7-10 scales to 1.5. First span in .lines1-4 scales to 0.7. Second, third, and fourth spans in .lines7-10 scale to 0.9. Third span in .lines11-12 scales to 0.5.
 
 - **Translate**: 
     -     "Tansform: translate(Y)" gave a feeling of the text giving feedback, allowing for space between lines or just having a sense of movement when hovered upon. 0.3 or 0.5s ease was used to make this smoother.
