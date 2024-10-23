@@ -10,22 +10,22 @@ The point of community is to come together as one and to put one's differences a
 up hearing it, I decided to choose an excerpt of its lyrics in a multi-page website with accompanied keyframe and hover animations to show what community means to me: to become a society that works together, ignoring the qualities or groups we are in that divide us.
 
 The excerpt:
-Imagine there's no heaven
-It's easy if you try
-No hell below us
-Above us, only sky
-Imagine all the people
-Livin' for today
-Imagine there's no countries
-It isn't hard to do
-Nothing to kill or die for
-And no religion, too
-Imagine all the people
-Livin' life in peace
-You may say I'm a dreamer
-But I'm not the only one
-I hope someday you'll join us
-And the world will be as one
+- Imagine there's no heaven
+- It's easy if you try
+- No hell below us
+- Above us, only sky
+- Imagine all the people
+- Livin' for today
+- Imagine there's no countries
+- It isn't hard to do
+- Nothing to kill or die for
+- And no religion, too
+- Imagine all the people
+- Livin' life in peace
+- You may say I'm a dreamer
+- But I'm not the only one
+- I hope someday you'll join us
+- And the world will be as one
 
 ## Technical Overview 
 
