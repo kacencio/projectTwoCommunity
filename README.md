@@ -1,7 +1,7 @@
 
 
 # DES228 Project 2
-### by Kacey Vicencio ###
+### Kacey Vicencio ###
 #### October 23, 2024 #####
 ### Website found at: [kacencio.github.io/projectTwoCommunity](https://kacencio.github.io/projectTwoCommunity/) ###
 
