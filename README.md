@@ -3,7 +3,7 @@
 # DES228 Project 2
 ### Kacey Vicencio ###
 #### October 23, 2024 #####
-### Website found at: [kacencio.github.io/projectTwoCommunity](https://kacencio.github.io/projectTwoCommunity/) ###
+#### Website found at: [kacencio.github.io/projectTwoCommunity](https://kacencio.github.io/projectTwoCommunity/) ####
 
 ## Project Overview 
 The point of community is to come together as one and to put one's differences aside in order to become stronger. *Imagine* by John Lennon illustrates this concept, urging us to imagine a reality where there are no labels that create division, allowing us to unite with each other, with only our humanity defining us. With these deep meanings of community from the song, as well as myself growing
