@@ -117,7 +117,8 @@ Trebuchet MS
 </ul>
 
 ## Initial Mockups
+Mockup 1
 ![Image 1](README%20imgs/mockup1.png)
-
+Mockup 2
 ![Image 2](README%20imgs/mockup2.png)
 
