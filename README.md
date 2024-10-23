@@ -126,4 +126,5 @@ Mockup 1
 ![Image 1](README%20imgs/mockup1.png)
 Mockup 2
 ![Image 2](README%20imgs/mockup2.png)
-
+Mockup 3
+![Image 3](README%20imgs/mockup3.png)
