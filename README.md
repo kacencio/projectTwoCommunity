@@ -116,3 +116,8 @@ Trebuchet MS
     <li>https://stackoverflow.com/questions/54702124/rainbow-text-animation-using-only-css</li>
 </ul>
 
+## Initial Mockups
+![Image 1](README%20imgs/mockup1.png)
+
+![Image 2](README%20imgs/mockup2.png)
+
