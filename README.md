@@ -49,6 +49,16 @@ Trebuchet MS
 <li>#A62AFF (Purple)</li>
 </ul>
 
+### Hover Effects Used: 
+- **Translate**: 
+    -     "Tansform: translate(Y)" gave a feeling of the text giving feedback, allowing for space between lines or just having a sense of movement when hovered upon. 0.3 or 0.5s ease was used to make this smoother.
+
+- **Rotate**: 
+    -     .lines5-6
+            Hover on First Child: Rotates slightly + moves up by 30px, increases font size to 6rem, triggers rainbow animation, and italicizes font.
+    -     .lines11-12
+            Hover on First Child: Rotates slightly + moves up by 30px, increases font size to 6rem, triggers rainbow animation, and italicizes font. For hover on second child, rotates slightly, moves up by 10px.
+
 ### Animations Used: 
 - **Rainbow Animation**: 
   - **Description**: Creates a rainbow color transition effect on text when Imagine is hovered.
